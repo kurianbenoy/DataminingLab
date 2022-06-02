@@ -1,0 +1,113 @@
+State,Age,Height,Weight,Salary,Purchaged
+Andhra Pradesh,44,160,65,72000,No
+Arunachal Pradesh,27,165,70,48000,Yes
+Assam,30,167,90,54000,No
+Bihar,38,180,74,61000,No
+Chhattisgarh,40,168,75,,Yes
+Goa,35,169,87,58000,Yes
+Gujarat,,161,89,52000,No
+Haryana,48,167,88,79000,Yes
+Himachal Pradesh,50,155,94,83000,No
+Jharkhand,37,159,80,67000,Yes
+Karnataka,38,158,65,72000,No
+Kerala,42,155,67,48000,Yes
+Madhya Pradesh,45,154,68,54000,No
+Maharashtra,51,158,70,61000,No
+Manipur,44,161,71,,Yes
+Meghalaya,27,160,72,58000,Yes
+Mizoram,30,,73,52000,No
+Nagaland,38,,74,79000,Yes
+Odisha,40,,75,83000,No
+Punjab,35,160,76,67000,Yes
+Rajasthan,,165,77,72000,No
+Sikkim,48,167,78,48000,Yes
+Tamil Nadu,50,180,79,54000,No
+Telangana,37,168,80,61000,No
+Tripura,38,169,85,,Yes
+Uttar Pradesh,42,161,,58000,Yes
+Uttarakhand,45,167,65,52000,No
+West Bengal,51,155,70,79000,Yes
+Andhra Pradesh,44,159,90,83000,No
+Arunachal Pradesh,27,158,74,67000,Yes
+Assam,30,155,75,72000,No
+Bihar,38,154,87,48000,Yes
+Chhattisgarh,40,158,89,54000,No
+Goa,35,161,88,61000,No
+Gujarat,,160,94,,Yes
+Haryana,48,,80,58000,Yes
+Himachal Pradesh,50,160,65,52000,No
+Jharkhand,37,165,67,79000,Yes
+Karnataka,38,167,68,83000,No
+Kerala,42,180,70,67000,Yes
+Madhya Pradesh,45,168,71,72000,No
+Maharashtra,51,169,72,48000,Yes
+Manipur,44,161,73,54000,No
+Meghalaya,27,167,74,61000,No
+Mizoram,30,155,75,,Yes
+Nagaland,38,159,76,58000,Yes
+Odisha,40,158,77,52000,No
+Punjab,35,155,78,79000,Yes
+Rajasthan,,154,79,83000,No
+Sikkim,48,158,80,67000,Yes
+Tamil Nadu,50,161,85,72000,No
+Telangana,37,160,,48000,Yes
+Tripura,38,,,54000,No
+Uttar Pradesh,42,160,65,61000,No
+Uttarakhand,45,165,70,,Yes
+West Bengal,51,167,90,58000,Yes
+Andhra Pradesh,44,180,74,52000,No
+Arunachal Pradesh,27,168,75,79000,Yes
+Assam,30,169,87,83000,No
+Bihar,38,161,89,67000,Yes
+Chhattisgarh,40,167,88,72000,No
+Goa,35,155,94,48000,Yes
+Gujarat,,159,80,54000,No
+Haryana,48,158,65,61000,No
+Himachal Pradesh,50,155,67,,Yes
+Jharkhand,37,154,68,58000,Yes
+Karnataka,38,158,70,52000,No
+Kerala,42,161,71,79000,Yes
+Madhya Pradesh,45,160,72,83000,No
+Maharashtra,51,,73,67000,Yes
+Manipur,44,160,74,72000,No
+Meghalaya,27,165,75,48000,Yes
+Mizoram,30,167,76,54000,No
+Nagaland,38,180,77,61000,No
+Odisha,40,168,78,,Yes
+Punjab,35,169,79,58000,Yes
+Rajasthan,,161,80,52000,No
+Sikkim,48,167,85,79000,Yes
+Tamil Nadu,50,155,,83000,No
+Telangana,37,159,65,67000,Yes
+Tripura,38,158,70,72000,No
+Uttar Pradesh,42,155,90,48000,Yes
+Uttarakhand,45,154,74,54000,No
+West Bengal,51,158,75,61000,No
+Andhra Pradesh,44,161,87,,Yes
+Arunachal Pradesh,27,160,89,58000,Yes
+Assam,30,,88,52000,No
+Bihar,38,160,94,79000,Yes
+Chhattisgarh,40,165,80,83000,No
+Goa,35,167,65,67000,Yes
+Gujarat,,180,67,72000,No
+Haryana,48,168,68,48000,Yes
+Himachal Pradesh,50,169,70,54000,No
+Jharkhand,37,161,71,61000,No
+Karnataka,38,167,72,,Yes
+Kerala,42,155,73,58000,Yes
+Madhya Pradesh,45,159,74,52000,No
+Maharashtra,51,158,75,79000,Yes
+Manipur,44,155,76,83000,No
+Meghalaya,27,154,77,67000,Yes
+Mizoram,30,158,78,72000,No
+Nagaland,38,161,79,48000,Yes
+Odisha,40,160,80,54000,No
+Punjab,35,,85,61000,No
+Rajasthan,,,65,,Yes
+Sikkim,48,160,70,58000,Yes
+Tamil Nadu,50,165,90,52000,No
+Telangana,37,167,74,79000,Yes
+Tripura,38,180,75,83000,No
+Uttar Pradesh,42,168,87,67000,Yes
+Uttarakhand,45,169,89,70000,Yes
+West Bengal,51,161,88,52000,No
